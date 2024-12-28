@@ -8,7 +8,7 @@ This research work is published [here](https://proceedings.mlr.press/v144/hashem
 
 There is no need to install the toolbox and you are only required to locate the repository somewhere in your machine. you may run:
 
-**`git clone https://github.com/Navidhashemicodes/Local_LipSDP_Matlab.git`**
+**`git clone https://github.com/Navidhashemicontrol/Local_LipSDP_Matlab.git`**
 
 Once you located the toolbox in your machine and run an experiment yalmip will be added to your path automatically. However please run "yalmiptest" on your command window to make it certain yalmip works. You can also use cvx as an alternative.
 
