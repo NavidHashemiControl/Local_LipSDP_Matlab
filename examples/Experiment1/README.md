@@ -1,13 +1,7 @@
-# Python Implementation of Vectorized (Feed-Forward Neural Network) Lower-Bound for Temporal Logic (LB4TL) 
+Run the following file:
 
-This repository provides the Python implementation of the [LB4TL](https://github.com/Navidhashemicodes/LB4TL) package, originally developed in MATLAB. Our implementation fully supports vectorized computation by converting signal temporal logic formulas into a PyTorch neural network, leveraging GPU acceleration for enhanced performance.
+**`Experiment_1.m`**
 
-## Instalation
-
-## Requirements
-
-## Example
-
-## Citation
+to regenerate Figure 4 in the [paper](https://proceedings.mlr.press/v144/hashemi21a/hashemi21a.pdf).
 
 
